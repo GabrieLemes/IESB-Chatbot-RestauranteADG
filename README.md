@@ -18,7 +18,8 @@ Para instalação deste Chatbot é necessário que seja feita algumas observaç�
 MacOS
 
 * Fazer download deste repositório em sua máquina local
-* Após o download, executar uma nova janela de Terminal da Pasta clicando com o botão direito sobre a pasta do repositório e clicando em Novo Terminal na Pasta'
+* Após o download, renomear o arquivo ```sample.env``` para apenas ```.env```
+* Executar uma nova janela de Terminal da Pasta clicando com o botão direito sobre a pasta do repositório e clicando em Novo Terminal na Pasta'
 
 ![image](https://user-images.githubusercontent.com/32220516/169123007-b528bad0-b84e-4a81-8e8a-6bceacd70c9b.png)
 
